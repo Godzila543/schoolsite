@@ -1,0 +1,35 @@
+body {
+	background: linear-gradient(0.35turn, #d35656, #3c3d47);
+}
+
+h1 {
+	color: white;
+	font-size: 50;
+}
+h2 {
+	color: #5026a7;
+	font-size: 35
+}
+
+p {
+	color: #eccd8f;
+	font-size: 24;
+	white-space: nowrap;
+  max-width: 200px;
+}
+
+pre {
+	font-size: 20;
+	color: #eccd8f;
+}
+a:link {
+	color: #6c7b95
+}
+
+a:visited {
+	color: #8bbabb
+}
+
+a:hover {
+	color: #c7f0db
+}

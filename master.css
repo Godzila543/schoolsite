@@ -1,0 +1,22 @@
+body {
+	background: linear-gradient(0.85turn, #6c7b95, #464159);
+}
+
+h1 {
+	color: #347474
+}
+
+a {
+	font-size: 20
+}
+a:link {
+	color: #6c7b95
+}
+
+a:visited {
+	color: #8bbabb
+}
+
+a:hover {
+	color: #c7f0db
+}
